@@ -5,7 +5,7 @@ With Interface, I tried to show the standard equipment of phones of different br
 Thank you everyone.
 ***************************************************
 Herkese selam,
-Hepimiz yeni bir telefon aldığımızda standart olarak yanında ekipmanlarıda verilir.
+Hepimiz yeni bir telefon veya yeni bir araç aldığımızda standart olarak yanında ekipmanlarıda verilir.Veya aldığımız aracın standart rengi markası veya tekerleği opsiyonel olarak verilir.
 İnterface ile markaları değişik olan telefonların standart ekipmanlarını ve hangi markanın yanında hangi ekipman türünün verileceğini göstermeye çalıştım.
 //Yorum satırlarını okumayı unutmayın daha fazla örneği  Inheritanceexample' de bulabilirsiniz.
 Herkese teşekkür ederim.
